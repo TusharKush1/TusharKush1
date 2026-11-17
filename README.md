@@ -1,6 +1,6 @@
 # Tushar Kushwaha, Ph.D.
 
-**Computational structural biologist · molecular dynamics · machine learning for protein design**
+**Computational Structural Biologist · Molecular Dynamics · Machine learning for Protein Design**
 
 Department of Biophysics, All India Institute of Medical Sciences (AIIMS), New Delhi
 
