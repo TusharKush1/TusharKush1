@@ -6,6 +6,11 @@ Department of Biophysics, All India Institute of Medical Sciences (AIIMS), New D
 
 [Google Scholar](https://scholar.google.com/citations?user=lOX2HpIAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/tushar-k-89977116a)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg">
+  <img src="assets/dashboard-light.svg" width="840" alt="Research dashboard. 20 peer-reviewed publications, 165 citations, h-index 8, molecular dynamics simulations since 2019. Publications per year: 2020: 1, 2021: 1, 2022: 3, 2023: 6, 2024: 3, 2025: 4, 2026: 2. Toolbox: GROMACS, PLUMED, MM-PBSA, Python, MDTraj, PyTorch, Schrödinger, CryoSPARC, docking.">
+</picture>
+
 ---
 
 ## About
@@ -29,7 +34,7 @@ My Ph.D. was on engineering antibody-like monobody (FN3) binders against human E
 
 ## Code
 
-- [GROMACS-simulation-analysis](https://github.com/TusharKush1/GROMACS-simulation-analysis): scripts I use to analyse and present GROMACS simulation results
+- [GROMACS-simulation-analysis](https://github.com/TusharKush1/GROMACS-simulation-analysis): occupancy analysis of hydrogen bonds, salt bridges, hydrophobic, π–π and cation–π contacts from GROMACS trajectories, with PyMOL output
 
 ## Selected computational publications
 

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 372" width="840" height="372" role="img" font-family='system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif'>
+<title>Research dashboard: Publications 20; Citations 165; h-index 8; MD simulations since 2019. Publications per year: 2020: 1, 2021: 1, 2022: 3, 2023: 6, 2024: 3, 2025: 4, 2026: 2.</title>
+<rect x="0.5" y="0.5" width="200.0" height="91" rx="10" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
+<text x="16.0" y="26" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start">Publications</text>
+<text x="16.0" y="62" font-size="30" font-weight="600" fill="#0b0b0b" text-anchor="start">20</text>
+<text x="16.0" y="80" font-size="11.5" font-weight="400" fill="#898781" text-anchor="start">peer-reviewed</text>
+<rect x="213.5" y="0.5" width="200.0" height="91" rx="10" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
+<text x="229.0" y="26" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start">Citations</text>
+<text x="229.0" y="62" font-size="30" font-weight="600" fill="#0b0b0b" text-anchor="start">165</text>
+<text x="229.0" y="80" font-size="11.5" font-weight="400" fill="#898781" text-anchor="start">Google Scholar</text>
+<rect x="426.5" y="0.5" width="200.0" height="91" rx="10" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
+<text x="442.0" y="26" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start">h-index</text>
+<text x="442.0" y="62" font-size="30" font-weight="600" fill="#0b0b0b" text-anchor="start">8</text>
+<text x="442.0" y="80" font-size="11.5" font-weight="400" fill="#898781" text-anchor="start">Google Scholar</text>
+<rect x="639.5" y="0.5" width="200.0" height="91" rx="10" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
+<text x="655.0" y="26" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start">MD simulations since</text>
+<text x="655.0" y="62" font-size="30" font-weight="600" fill="#0b0b0b" text-anchor="start">2019</text>
+<text x="655.0" y="80" font-size="11.5" font-weight="400" fill="#898781" text-anchor="start">all-atom, GROMACS</text>
+<rect x="0.5" y="104.5" width="499" height="267" rx="10" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
+<text x="16" y="132" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Publications per year</text>
+<text x="16" y="150" font-size="11.5" font-weight="400" fill="#898781" text-anchor="start">Peer-reviewed papers; 2026 counted to November 2026</text>
+<line x1="44" x2="480" y1="282.6666666666667" y2="282.6666666666667" stroke="#e1e0d9"/>
+<line x1="44" x2="480" y1="231.33333333333331" y2="231.33333333333331" stroke="#e1e0d9"/>
+<line x1="44" x2="480" y1="180.0" y2="180.0" stroke="#e1e0d9"/>
+<text x="34" y="338.0" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end">0</text>
+<text x="34" y="286.6666666666667" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end">2</text>
+<text x="34" y="235.33333333333331" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end">4</text>
+<text x="34" y="184.0" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end">6</text>
+<path d="M63.14285714285714,334 V312.3333333333333 Q63.14285714285714,308.3333333333333 67.14285714285714,308.3333333333333 H83.14285714285714 Q87.14285714285714,308.3333333333333 87.14285714285714,312.3333333333333 V334 Z" fill="#2a78d6"/>
+<text x="75.14285714285714" y="352" font-size="11.5" font-weight="400" fill="#898781" text-anchor="middle">2020</text>
+<path d="M125.42857142857144,334 V312.3333333333333 Q125.42857142857144,308.3333333333333 129.42857142857144,308.3333333333333 H145.42857142857144 Q149.42857142857144,308.3333333333333 149.42857142857144,312.3333333333333 V334 Z" fill="#2a78d6"/>
+<text x="137.42857142857144" y="352" font-size="11.5" font-weight="400" fill="#898781" text-anchor="middle">2021</text>
+<path d="M187.71428571428572,334 V261.0 Q187.71428571428572,257.0 191.71428571428572,257.0 H207.71428571428572 Q211.71428571428572,257.0 211.71428571428572,261.0 V334 Z" fill="#2a78d6"/>
+<text x="199.71428571428572" y="352" font-size="11.5" font-weight="400" fill="#898781" text-anchor="middle">2022</text>
+<path d="M250.0,334 V184.0 Q250.0,180.0 254.0,180.0 H270.0 Q274.0,180.0 274.0,184.0 V334 Z" fill="#2a78d6"/>
+<text x="262.0" y="352" font-size="11.5" font-weight="400" fill="#898781" text-anchor="middle">2023</text>
+<text x="262.0" y="173.0" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">6</text>
+<path d="M312.2857142857143,334 V261.0 Q312.2857142857143,257.0 316.2857142857143,257.0 H332.2857142857143 Q336.2857142857143,257.0 336.2857142857143,261.0 V334 Z" fill="#2a78d6"/>
+<text x="324.2857142857143" y="352" font-size="11.5" font-weight="400" fill="#898781" text-anchor="middle">2024</text>
+<path d="M374.57142857142856,334 V235.33333333333331 Q374.57142857142856,231.33333333333331 378.57142857142856,231.33333333333331 H394.57142857142856 Q398.57142857142856,231.33333333333331 398.57142857142856,235.33333333333331 V334 Z" fill="#2a78d6"/>
+<text x="386.57142857142856" y="352" font-size="11.5" font-weight="400" fill="#898781" text-anchor="middle">2025</text>
+<path d="M436.85714285714283,334 V286.6666666666667 Q436.85714285714283,282.6666666666667 440.85714285714283,282.6666666666667 H456.85714285714283 Q460.85714285714283,282.6666666666667 460.85714285714283,286.6666666666667 V334 Z" fill="#2a78d6"/>
+<text x="448.85714285714283" y="352" font-size="11.5" font-weight="400" fill="#898781" text-anchor="middle">2026</text>
+<line x1="44" x2="480" y1="334" y2="334" stroke="#c3c2b7"/>
+<rect x="512.5" y="104.5" width="327" height="267" rx="10" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
+<text x="528" y="132" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="start">Toolbox</text>
+<text x="528" y="150" font-size="11.5" font-weight="400" fill="#898781" text-anchor="start">What the simulations and models run on</text>
+<text x="528" y="180" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="start">Simulation</text>
+<rect x="528.5" y="190.5" width="90" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="573.5" y="208" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">GROMACS</text>
+<rect x="626.5" y="190.5" width="81" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="667.0" y="208" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">PLUMED</text>
+<rect x="715.5" y="190.5" width="88" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="759.5" y="208" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">MM-PBSA</text>
+<text x="528" y="242" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="start">Analysis and ML</text>
+<rect x="528.5" y="252.5" width="70" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="563.5" y="270" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">Python</text>
+<rect x="606.5" y="252.5" width="75" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="644.0" y="270" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">MDTraj</text>
+<rect x="689.5" y="252.5" width="79" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="729.0" y="270" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">PyTorch</text>
+<text x="528" y="304" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="start">Design and structure</text>
+<rect x="528.5" y="314.5" width="105" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="581.0" y="332" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">Schrödinger</text>
+<rect x="641.5" y="314.5" width="102" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="692.5" y="332" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">CryoSPARC</text>
+<rect x="751.5" y="314.5" width="77" height="26" rx="13" fill="none" stroke="#c3c2b7"/>
+<text x="790.0" y="332" font-size="12.5" font-weight="400" fill="#0b0b0b" text-anchor="middle">Docking</text>
+</svg>
